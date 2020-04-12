@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8cd7a9d.chunk.css",
+    "main.js": "/static/js/main.33dc3e91.chunk.js",
+    "main.js.map": "/static/js/main.33dc3e91.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c70048c8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c70048c8.js.map",
+    "static/css/2.62cc698f.chunk.css": "/static/css/2.62cc698f.chunk.css",
+    "static/js/2.50ff3d52.chunk.js": "/static/js/2.50ff3d52.chunk.js",
+    "static/js/2.50ff3d52.chunk.js.map": "/static/js/2.50ff3d52.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.755328765bd408e26c336c9f2cc7da00.js": "/precache-manifest.755328765bd408e26c336c9f2cc7da00.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.62cc698f.chunk.css.map": "/static/css/2.62cc698f.chunk.css.map",
+    "static/css/main.a8cd7a9d.chunk.css.map": "/static/css/main.a8cd7a9d.chunk.css.map",
+    "static/js/2.50ff3d52.chunk.js.LICENSE.txt": "/static/js/2.50ff3d52.chunk.js.LICENSE.txt",
+    "static/media/Resume_Diego_Vanegas_2020.pdf": "/static/media/Resume_Diego_Vanegas_2020.ce2b13a8.pdf",
+    "static/media/aboutImage.jpeg": "/static/media/aboutImage.56a68190.jpeg",
+    "static/media/bactoId.png": "/static/media/bactoId.c9e63bf6.png",
+    "static/media/unitedAngels.png": "/static/media/unitedAngels.21b2013c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c70048c8.js",
+    "static/css/2.62cc698f.chunk.css",
+    "static/js/2.50ff3d52.chunk.js",
+    "static/css/main.a8cd7a9d.chunk.css",
+    "static/js/main.33dc3e91.chunk.js"
+  ]
+}
