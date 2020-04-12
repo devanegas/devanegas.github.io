@@ -1,0 +1,7 @@
+.customTitle {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#0CBABA, #0CBABA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: lighter;
+  }
